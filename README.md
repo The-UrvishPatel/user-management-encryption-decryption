@@ -4,10 +4,10 @@ This project is a secure and efficient **User Management System** designed to ha
 
 ## Current Project Approach using 4 keys based on RSA (Public/Private keys)
 
-![4 key approach](https://raw.githubusercontent.com/The-UrvishPatel/user-management-encryption-decryption/refs/heads/main/figures/4-key approach.png)
+![4 key approach](https://raw.githubusercontent.com/The-UrvishPatel/user-management-encryption-decryption/refs/heads/main/figures/4-key-approach.png)
 
 
-![3 key approach - A thought](https://raw.githubusercontent.com/The-UrvishPatel/user-management-encryption-decryption/refs/heads/main/figures/3-key approach.png)
+![3 key approach - A thought](https://raw.githubusercontent.com/The-UrvishPatel/user-management-encryption-decryption/refs/heads/main/figures/3-key-approach.png)
 
 
 ## Features
