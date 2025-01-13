@@ -6,6 +6,7 @@ This project is a secure and efficient **User Management System** designed to ha
 
 ![4 key approach](https://raw.githubusercontent.com/The-UrvishPatel/user-management-encryption-decryption/refs/heads/main/figures/4-key-approach.png)
 
+## 3 keys approach - A thought
 
 ![3 key approach - A thought](https://raw.githubusercontent.com/The-UrvishPatel/user-management-encryption-decryption/refs/heads/main/figures/3-key-approach.png)
 
