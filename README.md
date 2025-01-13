@@ -2,6 +2,14 @@
 
 This project is a secure and efficient **User Management System** designed to handle user data with a focus on confidentiality and integrity. It uses encryption and decryption techniques to protect sensitive information during storage and transmission.
 
+## Current Project Approach using 4 keys based on RSA (Public/Private keys)
+
+![4 key approach](https://raw.githubusercontent.com/The-UrvishPatel/user-management-encryption-decryption/refs/heads/main/figures/4-key approach.png)
+
+
+![3 key approach - A thought](https://raw.githubusercontent.com/The-UrvishPatel/user-management-encryption-decryption/refs/heads/main/figures/3-key approach.png)
+
+
 ## Features
 
 - **User Management**: Create, list, and delete user data securely.
